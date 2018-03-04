@@ -2,9 +2,7 @@
 #include "library.hpp"
 
 using namespace std;
-
-  class HelloWorld{
-    void callOut(){
+    
+    void HelloWorld::callOut(){
       cout<<"Hello World!"<<endl;
     }
-  };
