@@ -5,6 +5,7 @@ example include file
 #define library_h
 
 class HelloWorld{
+  public:
   void callOut();
 };
 
